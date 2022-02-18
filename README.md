@@ -1,5 +1,5 @@
 <h1 align="center">Hello there!! I'm Samyak Sharma</h1>
-<h3 align="center">I'm a passionate web developer and a Machine Learning Enthusiast. (Indulged in solving problems daily🍳)</h3>
+<h3 align="center">I'm a passionate web developer and a Machine Learning Enthusiast. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsharma19&label=Profile%20views&color=0e75b6&style=flat" alt="samsharma19" /> </p>
 
